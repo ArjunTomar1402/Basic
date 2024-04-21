@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">YourAppName</string>
+        <string name="cgpa_label">CGPA: %s</string>
+        <string name="cgpa">CGPA: </string>
+</resources>
